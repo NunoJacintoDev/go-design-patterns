@@ -2,9 +2,9 @@
 
 # Behavioral Patterns
 
-<!--
-TODO:
+
 - [Strategy](./strategy/README.md)
+<!-- TODO:
 - [Chain of Responsibility](./chain-of-responsibility/README.md)
 - [Command](./command/README.md)
 
