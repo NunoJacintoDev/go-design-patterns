@@ -4,16 +4,10 @@
 
 <!--
 TODO:
-- [Strategy](./strategy/README.md)
-- [Chain of Responsibility](./chain-of-responsibility/README.md)
-- [Command](./command/README.md)
+- [Barrier](./barrier/README.md)
+- [Future](./future/README.md)
+- [Pipeline](./pipeline/README.md)
 
-- [Template](./template/README.md)
-- [Memento](./memento/README.md)
-- [Interpreter](./interpreter/README.md)
-
-- [Visitor](./visitor/README.md)
-- [State](./state/README.md)
-- [mediator](./mediator/README.md)
-- [observer](./observer/README.md)
+- [Workers Pool](./workers-pool/README.md)
+- [Publish/Subscriber](./publish-subscriber/README.md)
 -->
