@@ -9,8 +9,8 @@
 
 - [Template](./template/)
 - [Memento](./memento/)
-<!-- TODO:
 - [Interpreter](./interpreter/)
+<!-- TODO:
 
 - [Visitor](./visitor/)
 - [State](./state/)
