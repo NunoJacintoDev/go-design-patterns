@@ -2,7 +2,6 @@
 
 # Behavioral Patterns
 
-
 - [Strategy](./strategy/)
 - [Chain of Responsibility](./chain-of-responsibility/)
 - [Command](./command/)
@@ -13,7 +12,5 @@
 
 - [Visitor](./visitor/)
 - [State](./state/)
-- [mediator](./mediator/)
-<!-- TODO:
-- [observer](./observer/)
--->
+- [Mediator](./mediator/)
+- [Observer](./observer/)
