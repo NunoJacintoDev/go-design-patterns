@@ -1,4 +1,4 @@
-[Design Patterns](../../README.md) > [Behavioral Patterns](../README.md)
+[Design Patterns](../../) > [Behavioral Patterns](../)
 
 # Chain of Responsibility
 

@@ -1,13 +1,13 @@
-[Design Patterns](../README.md)
+[Design Patterns](../)
 
 # Structural Patterns
-- [Composite](./composite/README.md)
-- [Adapter](./adapter/README.md)
-- [Bridge](./bridge/README.md)
-- [Proxy](./proxy/README.md)
-- [Decorator](./decorator/README.md)
-- [Facade](./facade/README.md)
-- [Flyweight](./flyweight/README.md)
+- [Composite](./composite/)
+- [Adapter](./adapter/)
+- [Bridge](./bridge/)
+- [Proxy](./proxy/)
+- [Decorator](./decorator/)
+- [Facade](./facade/)
+- [Flyweight](./flyweight/)
 
 
 # Decorator vs Proxy

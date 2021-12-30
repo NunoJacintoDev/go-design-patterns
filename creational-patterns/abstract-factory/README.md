@@ -1,4 +1,4 @@
-[Design Patterns](../../README.md) > [Creational Patterns](../README.md)
+[Design Patterns](../../) > [Creational Patterns](../)
 
 # Abstract Factory - a factory of factories
 

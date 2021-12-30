@@ -1,19 +1,19 @@
-[Design Patterns](../README.md)
+[Design Patterns](../)
 
 # Behavioral Patterns
 
 
-- [Strategy](./strategy/README.md)
-- [Chain of Responsibility](./chain-of-responsibility/README.md)
-- [Command](./command/README.md)
+- [Strategy](./strategy/)
+- [Chain of Responsibility](./chain-of-responsibility/)
+- [Command](./command/)
+
+- [Template](./template/)
 <!-- TODO:
+- [Memento](./memento/)
+- [Interpreter](./interpreter/)
 
-- [Template](./template/README.md)
-- [Memento](./memento/README.md)
-- [Interpreter](./interpreter/README.md)
-
-- [Visitor](./visitor/README.md)
-- [State](./state/README.md)
-- [mediator](./mediator/README.md)
-- [observer](./observer/README.md)
+- [Visitor](./visitor/)
+- [State](./state/)
+- [mediator](./mediator/)
+- [observer](./observer/)
 -->

@@ -1,4 +1,4 @@
-[Design Patterns](../../README.md) > [Structural Patterns](../README.md)
+[Design Patterns](../../) > [Structural Patterns](../)
 
 # Decorator
 The Decorator design pattern allows you to decorate an already existing type with more functional features without actually touching it. How is it possible? Well, it uses an approach similar to **matryoshka dolls**, where you have a small doll that you can put inside a doll of the same shape but bigger, and so on and so forth.

@@ -1,4 +1,4 @@
-[Design Patterns](../../README.md) > [Structural Patterns](../README.md)
+[Design Patterns](../../) > [Structural Patterns](../)
 
 # Flyweight
 Flyweight is a pattern which allows sharing the state of a heavy object between many instances of some type. Imagine that you have to create and store too many objects of some heavy type that are fundamentally equal. You'll run out of memory pretty quickly. This problem can be easily solved with the Flyweight pattern, with additional help of the Factory pattern. The factory is usually in charge of encapsulating object creation, as we saw previously.

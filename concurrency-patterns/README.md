@@ -1,13 +1,13 @@
-[Design Patterns](../README.md)
+[Design Patterns](../)
 
 # Concurrency Patterns
 
 <!--
 TODO:
-- [Barrier](./barrier/README.md)
-- [Future](./future/README.md)
-- [Pipeline](./pipeline/README.md)
+- [Barrier](./barrier/)
+- [Future](./future/)
+- [Pipeline](./pipeline/)
 
-- [Workers Pool](./workers-pool/README.md)
-- [Publish/Subscriber](./publish-subscriber/README.md)
+- [Workers Pool](./workers-pool/)
+- [Publish/Subscriber](./publish-subscriber/)
 -->

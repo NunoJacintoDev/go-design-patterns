@@ -1,9 +1,9 @@
-[Design Patterns](../README.md)
+[Design Patterns](../)
 
 # Creational Patterns
 
-- [Singleton](./singleton/README.md)
-- [Builder](./builder/README.md)
-- [Factory](./factory/README.md)
-- [Abstract Factory](./abstract-factory/README.md)
-- [Prototype](./prototype/README.md)
+- [Singleton](./singleton/)
+- [Builder](./builder/)
+- [Factory](./factory/)
+- [Abstract Factory](./abstract-factory/)
+- [Prototype](./prototype/)

@@ -1,4 +1,4 @@
-[Design Patterns](../../README.md) > [Structural Patterns](../README.md)
+[Design Patterns](../../) > [Structural Patterns](../)
 
 # Bridge
 The Bridge pattern decouples an abstraction (an object) from its implementation (what the object does) so that the two can vary independently.

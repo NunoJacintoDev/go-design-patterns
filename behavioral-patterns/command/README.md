@@ -1,4 +1,4 @@
-[Design Patterns](../../README.md) > [Behavioral Patterns](../README.md)
+[Design Patterns](../../) > [Behavioral Patterns](../)
 
 **"You need a way to connect types that are really unrelated? So design a Command for them"**
 
