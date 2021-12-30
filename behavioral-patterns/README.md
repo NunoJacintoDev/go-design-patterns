@@ -8,8 +8,8 @@
 - [Command](./command/)
 
 - [Template](./template/)
-<!-- TODO:
 - [Memento](./memento/)
+<!-- TODO:
 - [Interpreter](./interpreter/)
 
 - [Visitor](./visitor/)
