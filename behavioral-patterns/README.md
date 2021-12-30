@@ -13,7 +13,7 @@
 
 - [Visitor](./visitor/)
 - [State](./state/)
-<!-- TODO:
 - [mediator](./mediator/)
+<!-- TODO:
 - [observer](./observer/)
 -->
