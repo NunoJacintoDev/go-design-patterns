@@ -6,3 +6,6 @@ This repository is based on the book  [Go Design Patterns](./docs/GO_DESIGN_PATT
 - [Structural Patterns](./structural-patterns/)
 - [Behavioral Patterns](./behavioral-patterns/)
 - [Concurrency Patterns](./concurrency-patterns/)
+    - [Concurrency Introduction](./concurrency-introduction/)
+
+
