@@ -12,8 +12,8 @@
 - [Interpreter](./interpreter/)
 
 - [Visitor](./visitor/)
-<!-- TODO:
 - [State](./state/)
+<!-- TODO:
 - [mediator](./mediator/)
 - [observer](./observer/)
 -->

@@ -6,3 +6,6 @@ strategy-image:
 
 command:
 	go run ./behavioral-patterns/command/cli/main.go
+
+state:
+	go run ./behavioral-patterns/state/cli/main.go
