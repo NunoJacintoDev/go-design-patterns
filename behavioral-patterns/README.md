@@ -5,8 +5,8 @@
 
 - [Strategy](./strategy/README.md)
 - [Chain of Responsibility](./chain-of-responsibility/README.md)
-<!-- TODO:
 - [Command](./command/README.md)
+<!-- TODO:
 
 - [Template](./template/README.md)
 - [Memento](./memento/README.md)

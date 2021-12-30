@@ -3,3 +3,6 @@ strategy-text:
 
 strategy-image:
 	go run ./behavioral-patterns/strategy/cli/main.go --output=image
+
+command:
+	go run ./behavioral-patterns/command/cli/main.go
