@@ -1,4 +1,4 @@
-[Design Patterns](../)
+[Design Patterns](../README.md)
 
 # Concurrency Patterns
 
