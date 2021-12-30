@@ -1,4 +1,4 @@
-[Design Patterns](../../) > [Structural Patterns](../)
+[Design Patterns](../../README.md) > [Structural Patterns](../README.md)
 
 # Proxy
 The Proxy pattern usually wraps an object to hide some of its characteristics. These characteristics could be the fact that it is a remote object (remote proxy), a very heavy object such as a very big image or the dump of a terabyte database (virtual proxy), or a restricted access object (protection proxy).

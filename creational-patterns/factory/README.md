@@ -1,4 +1,4 @@
-[Design Patterns](../../) > [Creational Patterns](../)
+[Design Patterns](../../README.md) > [Creational Patterns](../README.md)
 
 # Factory pattern
 

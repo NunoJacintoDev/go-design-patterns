@@ -1,4 +1,4 @@
-[Design Patterns](../../) > [Structural Patterns](../)
+[Design Patterns](../../README.md) > [Structural Patterns](../README.md)
 
 # Adapter
 The Adapter pattern is very useful when, for example, an interface gets outdated and it's not possible to replace it easily or fast. Instead, you create a new interface to deal with the current needs of your application, which, under the hood, uses implementations of the old interface.

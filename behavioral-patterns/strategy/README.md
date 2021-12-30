@@ -1,4 +1,4 @@
-[Design Patterns](../../) > [Behavioral Patterns](../)
+[Design Patterns](../../README.md) > [Behavioral Patterns](../README.md)
 
 # Strategy Pattern
 The Strategy pattern uses different algorithms to achieve some specific functionality. These algorithms are hidden behind an interface and, of course, they must be interchangeable. All algorithms achieve the same functionality in a different way. For example, we could have a Sort interface and few sorting algorithms. The result is the same, some list is sorted, but we could have used quick sort, merge sort, and so on

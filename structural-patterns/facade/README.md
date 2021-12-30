@@ -1,4 +1,4 @@
-[Design Patterns](../../) > [Structural Patterns](../)
+[Design Patterns](../../README.md) > [Structural Patterns](../README.md)
 
 # Facade
 A facade, in architectural terms, is the front wall that hides the rooms and corridors of a building. It protects its inhabitants from cold and rain, and provides them privacy. It orders and divides the dwellings.

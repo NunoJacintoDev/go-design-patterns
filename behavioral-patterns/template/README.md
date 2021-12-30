@@ -1,3 +1,3 @@
-[Design Patterns](../../) > [Behavioral Patterns](../)
+[Design Patterns](../../README.md) > [Behavioral Patterns](../README.md)
 
 # Template Pattern
