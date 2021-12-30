@@ -10,9 +10,9 @@
 - [Template](./template/)
 - [Memento](./memento/)
 - [Interpreter](./interpreter/)
-<!-- TODO:
 
 - [Visitor](./visitor/)
+<!-- TODO:
 - [State](./state/)
 - [mediator](./mediator/)
 - [observer](./observer/)
