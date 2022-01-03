@@ -2,9 +2,8 @@
 
 # Concurrency Patterns
 
-<!--
-TODO:
 - [Barrier](./barrier/)
+<!-- TODO:
 - [Future](./future/)
 - [Pipeline](./pipeline/)
 
