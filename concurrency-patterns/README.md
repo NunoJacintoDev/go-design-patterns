@@ -4,8 +4,8 @@
 
 - [Barrier](./barrier/)
 - [Future / Promise](./promise/)
-<!-- TODO:
 - [Pipeline](./pipeline/)
+<!-- TODO:
 
 - [Workers Pool](./workers-pool/)
 - [Publish/Subscriber](./publish-subscriber/)
