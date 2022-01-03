@@ -3,8 +3,8 @@
 # Concurrency Patterns
 
 - [Barrier](./barrier/)
+- [Future / Promise](./promise/)
 <!-- TODO:
-- [Future](./future/)
 - [Pipeline](./pipeline/)
 
 - [Workers Pool](./workers-pool/)
