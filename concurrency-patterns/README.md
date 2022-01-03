@@ -5,8 +5,7 @@
 - [Barrier](./barrier/)
 - [Future / Promise](./promise/)
 - [Pipeline](./pipeline/)
+- [Workers Pool](./workers_pool/)
 <!-- TODO:
-
-- [Workers Pool](./workers-pool/)
 - [Publish/Subscriber](./publish-subscriber/)
 -->
