@@ -6,6 +6,4 @@
 - [Future / Promise](./promise/)
 - [Pipeline](./pipeline/)
 - [Workers Pool](./workers_pool/)
-<!-- TODO:
-- [Publish/Subscriber](./publish-subscriber/)
--->
+- [Publish/Subscriber](./pusblish_subscriber/)
